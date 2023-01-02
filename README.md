@@ -72,8 +72,8 @@ Refactoring in general makes code more organized and easier to read and run more
 In the case of the VBA code, the code ran faster after refactoring. It took more than 1 second to run the code for 2017 and 0.15 second for 2018 prior to refactoring.
 It's evident from the images captures prior and after the code refactoring that the time to run the program decreased to 0.1 seond and 0.093 seconds. However, the disadvantages was the time it took to restest.
 ### Before Refactoring
-![VBA 2017 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/Resources/VBA_Challenge_2017.PNG)
-![VBA 2018 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/Resources/VBA_Challenge_2018.PNG)
+![VBA 2017 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/VBA_Challenge_2017.PNG)
+![VBA 2018 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/VBA_Challenge_2018.PNG)
 ### After Refactoring
-![VBA 2017 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/Resources/VBA_Challenge_2017New.PNG)
-![VBA 2018 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/Resources/VBA_Challenge_2018New.PNG)
+![VBA 2017 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/VBA_Challenge_2017New.PNG)
+![VBA 2018 Screenshot](https://github.com/mabulhassan/kickstarter-analysis/VBA_Challenge_2018New.PNG)
